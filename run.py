@@ -83,6 +83,6 @@ class TowerOfHanoi:
         )
 
 if __name__ == '__main__':
-    toh = TowerOfHanoi(num_disks = 3)
+    toh = TowerOfHanoi(num_disks = 16)
     toh.solve()
 
